@@ -27,7 +27,15 @@ We are investigating and researching the actual situation of such a problem.<br>
 If you have any errors or suggestions, please issue or pull request.<br>
 Currently, we cannot guarantee the information, but we will try to provide as accurate information as possible.<br>
 
+## Articles<br>記事
+[全ての始まりとなったレポート(個人的に)](Suri_repo/Suri_repo.docx)<br>
+大急ぎで書いてて面白くなっちゃって時間無くなった。みんなは余裕をもって始めようね。<br>
+先生に出したやつと同じだからなんか問題になったらやだなぁ。<br>
+
 ## 首謀者<br>Mastermind
 [ogawa3427_小川](https://sites.google.com/view/ogawa34)<br>
 インターネットに生息。なんか金沢にいないことが多くなってきた。<br>
 Lives on the Internet. I'm not in Kanazawa a lot thesedays.<br>
+
+めも  
+https://ja.stackoverflow.com/questions/91608/readme-ja-md-readme-ja-md-%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA-%E5%90%8C%E3%81%98%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E8%A8%80%E8%AA%9E%E5%88%A5%E3%81%AB%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E5%BD%A2%E5%BC%8F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A9%B3%E3%81%97%E3%81%8F%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99
